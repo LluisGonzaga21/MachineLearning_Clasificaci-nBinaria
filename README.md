@@ -3,7 +3,7 @@ Se ha realizado un estudio de la tasa de mortalidad por enfermedad cardíaca med
 
 En el directorio se adjuntan los datos usados. Proceden de la investigación que está llevando a cabo la Organización Mundial de la Salud para el estudio y prevención de las enfermedades cardiovasculares.
 
-El objetivo del presente trabajo es encontrar el mejor modelo predictivo, es decir, aquel que sea capaz de predecir con mayor fiablidad si un paciente, dados uns datos, experimentará muerte debido a un problema cardiovascular.
+El objetivo del presente trabajo es encontrar el mejor modelo predictivo, es decir, aquel que sea capaz de predecir con mayor fiablidad si un paciente, dados unos datos de entrada (input), experimentará muerte debido a un problema cardiovascular.
 
 Descripción de archivos:
 - TareaMonica.R: es el archivo que contiene todas las líneas de código usadas para el desarrollo de los distintos modelos predictivos, su tuneo, evaluación y comparación mediante métodos gráficos con los demás.
